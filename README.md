@@ -17,7 +17,7 @@ CMS端：https://github.com/baok1592/phps.shop-cms <br/>
 1、npm install<br/>
 2、npm run serve<br/>
 3、main.js中修改api网址
-4、账号admin 密码123456
+4、账号admin 密码123456或08590859
 
 ## 版权信息
 如花拼团商城系统同ThinkPHP一样，遵循Apache2开源协议发布，并提供免费使用 <br/>
